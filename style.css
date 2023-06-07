@@ -159,7 +159,7 @@ body {
   }
 
   .card-img {
-    content: url('/images/illustration-woman-online-desktop.svg');
+    content: url('./images/illustration-woman-online-desktop.svg');
     transform: translateY(0) translateX(-4rem);
   }
 
