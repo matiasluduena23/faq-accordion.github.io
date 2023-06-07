@@ -61,7 +61,6 @@ body {
   height: auto;
 }
 
-
 .card-img-box {
   display: none;
 }
@@ -69,7 +68,6 @@ body {
 .card-body {
   margin-top: -4rem;
 }
-
 
 .card-title {
   text-align: center;
@@ -123,7 +121,6 @@ body {
 }
 
 @media(min-width: 850px){
-
   body {
     margin: 0 auto;
   }
